@@ -26,7 +26,7 @@ Or 3. Run a Python server:
 - Navigate to the cloned directory in your terminal and run:
 
   ```bash
-  python -m http.server
+  python3 -m http.server
   ```
 
 - Then, open your browser and go to http://localhost:8000 to access the projects.
