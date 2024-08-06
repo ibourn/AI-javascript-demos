@@ -52,4 +52,4 @@ Or 3. Run a Python server:
   An application that uses machine learning to select optimal text colors based on background colors.
 
 - **[Mood Detection](./mood-detection/README.md)**  
-  A real-time mood detection system that analyzes facial expressions using face-api.js and HTML5 Canvas.
+  A real-time mood detection system that analyzes facial expressions using face-api.js.
