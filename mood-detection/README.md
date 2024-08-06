@@ -7,8 +7,6 @@ The **Mood Detection** project utilizes computer vision and machine learning to 
 ## Technologies Used
 
 - **face-api.js**: A JavaScript library for face detection and recognition that runs in the browser.
-- **HTML5 Canvas**: Used to draw the detected face contours and facial landmarks.
-- **WebRTC**: Enables real-time video streaming from the user's webcam.
 
 ## How It Works
 
